@@ -1,11 +1,11 @@
 
 
-# ----- SERVER:
+# ----- SERVER: (https://www.codementor.io/olatundegaruba/nodejs-restful-apis-in-10-minutes-q0sgsfhbd)
 1. Cai dat npm.
 2. Cai dat nodejs: $ npm install node
-  - Tao project.
+  - Tao project (ng init).
   - Cai dat file pakckage.json.
-3. Cai dat Express: $ npm instal express, sau do cai dat them:
+3. Cai dat Express: $ npm install express, $ npm install bluebird, sau do cai dat them:
   - $ npm install body-parser --save
   - $ npm install cookie-parser --save
   - $ npm install multer --save
@@ -27,4 +27,4 @@
   - Chay them lenh: $ npm install path
                     $ npm install serve-static
   
-# ----- CLIENT:
+# ----- CLIENT: (https://angular.io/guide/quickstart)
